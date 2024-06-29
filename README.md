@@ -8,5 +8,6 @@ Usage:
 3. place the batex code in ''examples'' dir: cp -r BaTex/batex diffusers/examples/batex
 
 Start:
-1. pip install -r requirements.txt
-2. bash regression.sh
+1. cd diffusers/examples/batex
+2. pip install -r requirements.txt
+3. bash regression.sh
